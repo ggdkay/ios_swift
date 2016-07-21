@@ -1,0 +1,7 @@
+###UIImage 
+
+```swift
+   //id3v2 data ,without 24 byte (apic,length,image/png(jpeg))
+   let id3Image = UIImage.init(data: mID3V2_Data)
+
+```
